@@ -46,9 +46,9 @@
 
 
 ## 참고자료
-|참고자료|URL|작성자|
-|:---:|:---:|:---:|
-|땅콩코딩|https://www.youtube.com/c/땅콩코딩|박성범|
-|w3school|https://www.w3schools.com/typescript/typescript_getstarted.php|박성범|
-|알잘딱깔센 Github|https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd|박성범|
-|알잘딱깔센 JavaScript|https://paullabworkspace.notion.site/JavaScript-f037c206e538471f9a9f1915b2139a60|박성범|
+|참고자료|작성자|
+|:---:|:---:|
+|[땅콩코딩](https://www.youtube.com/c/땅콩코딩)|박성범|
+|[w3school.php](https://www.w3schools.com/typescript/typescript_getstarted.php)|박성범|
+|[알잘딱깔센 Github](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
+|[알잘딱깔센 JavaScript](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
