@@ -19,31 +19,32 @@
 ## 저자 소개 
 
 **김민석** <br>
-함께 사용자를 위해 일하는 개발자[🍓 Github](https://github.com/alstjr5949/)
-
+함께 사용자를 위해 일하는 개발자[🍓 Github](https://github.com/alstjr5949/) <br>
+담당파트 : 유틸리티 타입 <br><br>
 **김민영** <br>
-확장성을 고려하는 개발자 [🐈‍⬛Github](https://github.com/BradleyyKim)
-
+확장성을 고려하는 개발자 [🐈‍⬛Github](https://github.com/BradleyyKim)<br>
+담당파트 : 제네릭 기초 <br><br>
 **김성훈** <br>
-매일 기록하는 개발자 **[✍️**Github](https://github.com/tada-js)
-
+매일 기록하는 개발자 **[✍️**Github](https://github.com/tada-js)<br>
+담당파트 : 배열 / 튜플 <br><br>
 **박성범** <br>
-세상을 아름답게 할 개발자[👁️‍🗨️Github](https://github.com/WannabeCM)
-
+세상을 아름답게 할 개발자[👁️‍🗨️Github](https://github.com/WannabeCM)<br>
+담당파트 : TS개념 / 개발환경 <br><br>
 **양다은** <br>
-
+담당파트 : 타입의 종류 <br><br>
 **이세영** <br>
-
+담당파트 : 클래스 <br><br>
 **임현지** <br>
-
+담당파트 : 가명 & 인터페이스 <br><br>
 **전유진** <br>
-
+담당파트 : 유니온 타입 / 캐스팅 <br><br>
 **조민경** <br>
 사람을 좋아하는 개발자 [🖤Github](https://github.com/minkyeongJ)
-
+담당파트 : 함수 <br><br>
 **주다빈** <br>
 👾**[Github](https://github.com/joodb)**
-
+담당파트 : 객체 타입 <br><br>
+(💁저자의 순서는 기여도가 아닌 가나다 순으로 배열되었습니다 :))
 
 ## 참고자료
 |참고자료|작성자|
