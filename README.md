@@ -47,7 +47,7 @@
 담당파트 : 함수 <br><br>
 ## **주다빈** <br>
 👾[Github](https://github.com/joodb)<br>
-담당파트 : 객체 타입 <br><br>
+담당파트 : 객체 타입 / Enum <br><br>
 (💁저자의 순서는 기여도가 아닌 가나다 순으로 배열되었습니다 :))
 <br><br>
 
