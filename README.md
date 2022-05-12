@@ -18,30 +18,30 @@
 
 ## 저자 소개 
 
-**김민석** 
-함께 사용자를 위해 일하는 개발자[🍓 Github](https://github.com/alstjr5949/)
+**김민석** <br>
+함께 사용자를 위해 일하는 개발자[🍓 Github](https://github.com/alstjr5949/)
 
-**김민영** 
+**김민영** <br>
 확장성을 고려하는 개발자 [🐈‍⬛Github](https://github.com/BradleyyKim)
 
-**김성훈** 
+**김성훈** <br>
 매일 기록하는 개발자 **[✍️**Github](https://github.com/tada-js)
 
-**박성범** 
+**박성범** <br>
 세상을 아름답게 할 개발자[👁️‍🗨️Github](https://github.com/WannabeCM)
 
-**양다은**
+**양다은** <br>
 
-**이세영**
+**이세영** <br>
 
-**임현지**
+**임현지** <br>
 
-**전유진**
+**전유진** <br>
 
-**조민경** 
+**조민경** <br>
 사람을 좋아하는 개발자 [🖤Github](https://github.com/minkyeongJ)
 
-**주다빈**  
+**주다빈** <br>
 👾**[Github](https://github.com/joodb)**
 
 
