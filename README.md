@@ -30,9 +30,10 @@
 매일 기록하는 개발자 [✍️Github](https://github.com/tada-js)<br>
 담당파트 : 배열 / 튜플 <br><br>
 ## **박성범** <br>
-세상을 아름답게 할 개발자[👁️‍🗨️Github](https://github.com/WannabeCM)<br>
+세상을 아름답게 할 개발자 [👁️‍🗨️Github](https://github.com/WannabeCM)<br>
 담당파트 : TS개념 / 개발환경 <br><br>
 ## **양다은** <br>
+모두를 위한 코드를 짜는 개발자 [✨ Github](https://github.com/dana-y) <br>
 담당파트 : 타입의 종류 <br><br>
 ## **이세영** <br>
 코드를 레코드하는 개발자 [🔮Github](https://github.com/sweeeeetpotato)<br>
