@@ -59,3 +59,5 @@
 |[w3school.php](https://www.w3schools.com/typescript/typescript_getstarted.php)|박성범|
 |[알잘딱깔센 Github](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
 |[알잘딱깔센 JavaScript](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
+|[알잘딱깔센 JavaScript](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030dfd)|박성범|
+|[초격차 패키지 온라인 : 한번에 끝내는 프론트엔드 개발](https://fastcampus.co.kr/dev_online_frontend)|김민영|
